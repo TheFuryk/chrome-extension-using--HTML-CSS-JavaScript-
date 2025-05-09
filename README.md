@@ -1,0 +1,2 @@
+# chrome extension using (HTML,CSS,JavaScript)
+A simple, lightweight Chrome extension built with HTML, CSS, and JavaScript that lets you save and manage your favorite links. Whether you're tracking useful resources, saving tabs for later, or collecting leads, this tool makes it easy to store URLs with a single click. Add links manually or capture the current tab (optional with browser API). Clean UI, no database—just local storage for privacy and simplicity.
