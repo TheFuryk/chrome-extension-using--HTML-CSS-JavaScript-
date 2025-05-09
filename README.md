@@ -19,7 +19,7 @@ A lightweight and intuitive bookmark saver built with HTML, CSS, and JavaScript.
 
     CSS
 
-    Vanilla JavaScript
+  JavaScript
 
 #🚀 Getting Started
 1. Clone the repository
